@@ -1,5 +1,7 @@
 # 🤖 AI Text Summarizer
 
+<img width="866" height="794" alt="Screenshot 2026-03-23 055357" src="https://github.com/user-attachments/assets/48259d10-4609-43b2-b26c-0c4b61fa585f" />
+
 A minimal full-stack application that converts unstructured text into structured insights using a Large Language Model (LLM).
 
 Built as part of an **AI Developer Intern assignment**, focusing on clarity, prompt design, and clean architecture.
